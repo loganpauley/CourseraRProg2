@@ -1,3 +1,6 @@
+## Questions regarding how to approach this assignment were asked on
+## StackOverflow and amongst my friends. Though the work is my own.
+
 ## Matrix inversion is usually a costly computation and there may be 
 ## some benefit to caching the inverse of a matrix rather than 
 ## compute it repeatedly. The functions in the following operation 
